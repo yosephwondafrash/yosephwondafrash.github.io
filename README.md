@@ -6,12 +6,9 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio](https://roshankrsoni.github.io)
+  [link to Portfolio](https://yosephwondafrash.github.io)
 <br />
-## Pagespeed Score
-
-<img src='https://github.com/Roshankrsoni/Roshankrsoni.github.io/blob/master/pagespeed.png?raw=true' />
-<br />
+#
 
 `No copyright issues.
 Feel free to copy anything and everything from this website.
@@ -31,5 +28,4 @@ or reproduced from the open source public code.
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@RoshanKrSoni](https://github.com/Roshankrsoni) | **Owner**
-:nerd_face: [@AdityaKrSoni](https://github.com/roshankr-asort)  | **Contributor**
+:sunglasses: [@JdevStudios](https://github.com/JdevStudios) | **Owner**
